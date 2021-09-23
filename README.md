@@ -10,6 +10,6 @@ Extracting all Participants from Metabolism of Proteins->Protein Repair
 Library for extracting pmids given either uniprot ID or drugbank ID
 
 ### Cardivascular_KG_Neo4j_Import (2).ipynb:
-Importing all work into a knowledge graph
+Importing all work into a knowledge graph and running data analysis
 
 
